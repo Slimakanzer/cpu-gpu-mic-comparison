@@ -36,7 +36,8 @@ set label "HD 8970"         at 2013,3000 center rotate by 30 textcolor rgb "#971
 set label "FirePro W9100"   at 2014,3500 center rotate by 30 textcolor rgb "#971c00"
 set label "FirePro S9150"   at 2015,3500 center rotate by 30 textcolor rgb "#971c00"
 set label "MI25"            at 2016,14500 center rotate by 30 textcolor rgb "#971c00"
-set label "MI60"            at 2018,5900 center rotate by 30 textcolor rgb "#971c00"
+set label "MI60"            at 2018,5900  center rotate by 30 textcolor rgb "#971c00"
+set label "MI100"           at 2020,10000 center rotate by 30 textcolor rgb "#971c00"
 set label "MI250"           at 2021,19000 center rotate by 30 textcolor rgb "#971c00"
 
 # Labels Intel
@@ -97,8 +98,9 @@ set label "HD 7970 GHz Ed." at 2012,650  center rotate by 30 textcolor rgb "#971
 set label "HD 8970"         at 2013,750  center rotate by 30 textcolor rgb "#971c00"
 set label "FirePro W9100"   at 2014,4000 center rotate by 30 textcolor rgb "#971c00"
 set label "FirePro S9150"   at 2015,4500 center rotate by 30 textcolor rgb "#971c00"
-set label "MI25"            at 2016,800 center rotate by 30 textcolor rgb "#971c00"
-set label "MI60"            at 2018,5900 center rotate by 30 textcolor rgb "#971c00"
+set label "MI25"            at 2016,800   center rotate by 30 textcolor rgb "#971c00"
+set label "MI60"            at 2018,5900  center rotate by 30 textcolor rgb "#971c00"
+set label "MI100"           at 2020,12000 center rotate by 30 textcolor rgb "#971c00"
 set label "MI250"           at 2021,18000 center rotate by 30 textcolor rgb "#971c00"
 
 

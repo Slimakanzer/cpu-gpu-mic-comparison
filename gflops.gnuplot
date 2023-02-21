@@ -36,7 +36,8 @@ set label "HD 8970"         at 2013,3300 center rotate by 20 textcolor rgb "#971
 set label "FirePro W9100"   at 2014,3700 center rotate by 20 textcolor rgb "#971c00"
 set label "FirePro S9150"   at 2015,4000 center rotate by 20 textcolor rgb "#971c00"
 set label "MI25"            at 2016,22000 center rotate by 40 textcolor rgb "#971c00"
-set label "MI60"            at 2018,7000 center rotate by 40 textcolor rgb "#971c00"
+set label "MI60"            at 2018,7000  center rotate by 40 textcolor rgb "#971c00"
+set label "MI100"           at 2020,15000 center rotate by 40 textcolor rgb "#971c00"
 set label "MI250"           at 2021,65000 center rotate by 40 textcolor rgb "#971c00"
 
 # Labels Intel
@@ -68,7 +69,7 @@ set label "GTX Titan X"    at 2015,9000  center rotate by 40 textcolor rgb "#00D
 set label "Titan X"        at 2016,17000 center rotate by 40 textcolor rgb "#00D317"
 set label "Titan V"        at 2017,20000 center rotate by 40 textcolor rgb "#00D317"
 set label "Titan RTX"      at 2018,22000 center rotate by 40 textcolor rgb "#00D317"
-set label "RTX 3090"       at 2020,20000 center rotate by 40 textcolor rgb "#00D317"
+set label "RTX 3090"       at 2020,55000 center rotate by 40 textcolor rgb "#00D317"
 
 # Labels Xeon Phi
 set label "Xeon Phi 7120 (KNC)" at 2014,1900 center rotate by 00
@@ -97,8 +98,9 @@ set label "HD 7970 GHz Ed." at 2012,650 center rotate by 40 textcolor rgb "#971c
 set label "HD 8970"         at 2013,800 center rotate by 40 textcolor rgb "#971c00"
 set label "FirePro W9100"   at 2014,4000 center rotate by 40 textcolor rgb "#971c00"
 set label "FirePro S9150"   at 2015,4000 center rotate by 40 textcolor rgb "#971c00"
-set label "MI25"            at 2016,425 center rotate by 40 textcolor rgb "#971c00"
-set label "MI60"            at 2018,9000 center rotate by 00 textcolor rgb "#971c00"
+set label "MI25"            at 2016,425   center rotate by 40 textcolor rgb "#971c00"
+set label "MI60"            at 2018,9000  center rotate by 00 textcolor rgb "#971c00"
+set label "MI100"           at 2020,18000 center rotate by 40 textcolor rgb "#971c00"
 set label "MI250"           at 2021,32000 center rotate by 40 textcolor rgb "#971c00"
 
 # Labels Intel

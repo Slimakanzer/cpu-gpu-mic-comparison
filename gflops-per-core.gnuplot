@@ -37,6 +37,7 @@ set label "FirePro W9100"   at 2014,160 center rotate by 30 textcolor rgb "#971c
 set label "FirePro S9150"   at 2015,160 center rotate by 30 textcolor rgb "#971c00"
 set label "MI25"            at 2016,330 center rotate by 30 textcolor rgb "#971c00"
 set label "MI60"            at 2018,350 center rotate by 30 textcolor rgb "#971c00"
+set label "MI100"           at 2020,240 center rotate by 30 textcolor rgb "#971c00"
 set label "MI250"           at 2021,280 center rotate by 30 textcolor rgb "#971c00"
 
 # Labels Intel
@@ -101,6 +102,7 @@ set label "FirePro W9100"   at 2014,75 center rotate by 00 textcolor rgb "#971c0
 set label "FirePro S9150"   at 2015,47 center rotate by 00 textcolor rgb "#971c00"
 set label "MI25"            at 2016,9 center rotate by 30 textcolor rgb "#971c00"
 set label "MI60"            at 2018,160 center rotate by 30 textcolor rgb "#971c00"
+set label "MI100"           at 2020,156 center rotate by 10 textcolor rgb "#971c00"
 set label "MI250"           at 2021,156 center rotate by 10 textcolor rgb "#971c00"
 
 # Labels Intel
